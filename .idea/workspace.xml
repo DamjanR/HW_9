@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bb1cc9a-f3db-43e9-b6b0-080bb6812cd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TMP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TMP.py" beforeDir="false" afterPath="$PROJECT_DIR$/TMP.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9.3">
+  <component name="RunManager" selected="Python.9.2">
     <configuration name="9.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HW9" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,10 +126,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.9.3" />
         <item itemvalue="Python.9.2" />
         <item itemvalue="Python.TMP" />
         <item itemvalue="Python.9.1" />
+        <item itemvalue="Python.9.3" />
       </list>
     </recent_temporary>
   </component>
