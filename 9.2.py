@@ -8,7 +8,6 @@ while i < cifra:
     i += 1
 
     if i % 3 == 0 and i % 5 == 0:
-#        print(i)
         print("Deljiv s 3 in 5")
     elif i % 3 == 0:
         print("deljiv s 3")
