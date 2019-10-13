@@ -6,13 +6,12 @@ print("")
 i = 0
 while i < cifra:
     i += 1
-
     if i % 3 == 0 and i % 5 == 0:
-        print("Deljiv s 3 in 5")
+        print("fizzbuzz")
     elif i % 3 == 0:
-        print("deljiv s 3")
+        print("fizz")
     elif i % 5 == 0:
-        print("deljiv s 5")
+        print("buzz")
     else:
         print(i)
 
